@@ -1,0 +1,15 @@
+D:\Pranav\REPOS\C_Sharp DeepDive\01_CompilationDemo\bin\Debug\net8.0\01_CompilationDemo.exe
+D:\Pranav\REPOS\C_Sharp DeepDive\01_CompilationDemo\bin\Debug\net8.0\01_CompilationDemo.deps.json
+D:\Pranav\REPOS\C_Sharp DeepDive\01_CompilationDemo\bin\Debug\net8.0\01_CompilationDemo.runtimeconfig.json
+D:\Pranav\REPOS\C_Sharp DeepDive\01_CompilationDemo\bin\Debug\net8.0\01_CompilationDemo.dll
+D:\Pranav\REPOS\C_Sharp DeepDive\01_CompilationDemo\bin\Debug\net8.0\01_CompilationDemo.pdb
+D:\Pranav\REPOS\C_Sharp DeepDive\01_CompilationDemo\obj\Debug\net8.0\01_CompilationDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pranav\REPOS\C_Sharp DeepDive\01_CompilationDemo\obj\Debug\net8.0\01_CompilationDemo.AssemblyInfoInputs.cache
+D:\Pranav\REPOS\C_Sharp DeepDive\01_CompilationDemo\obj\Debug\net8.0\01_CompilationDemo.AssemblyInfo.cs
+D:\Pranav\REPOS\C_Sharp DeepDive\01_CompilationDemo\obj\Debug\net8.0\01_CompilationDemo.csproj.CoreCompileInputs.cache
+D:\Pranav\REPOS\C_Sharp DeepDive\01_CompilationDemo\obj\Debug\net8.0\01_CompilationDemo.sourcelink.json
+D:\Pranav\REPOS\C_Sharp DeepDive\01_CompilationDemo\obj\Debug\net8.0\01_CompilationDemo.dll
+D:\Pranav\REPOS\C_Sharp DeepDive\01_CompilationDemo\obj\Debug\net8.0\refint\01_CompilationDemo.dll
+D:\Pranav\REPOS\C_Sharp DeepDive\01_CompilationDemo\obj\Debug\net8.0\01_CompilationDemo.pdb
+D:\Pranav\REPOS\C_Sharp DeepDive\01_CompilationDemo\obj\Debug\net8.0\01_CompilationDemo.genruntimeconfig.cache
+D:\Pranav\REPOS\C_Sharp DeepDive\01_CompilationDemo\obj\Debug\net8.0\ref\01_CompilationDemo.dll

@@ -1,6 +1,15 @@
-﻿################################################################################
+################################################################################
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/CSharpDeepDive/.vs/CSharpDeepDive
+/CSharpDeepDive/.vs/
 /CSharpDeepDive/obj
+/CSharpDeepDive/bin/
+
+01_CompilationDemo/bin/
+01_CompilationDemo/obj/
+01_CompilationDemo/.vs/
+
+02_Encapsulation/bin/
+02_Encapsulation/obj/
+02_Encapsulation/.vs/

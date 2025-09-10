@@ -20,5 +20,15 @@ namespace _04_Inheritance
         {
             Console.WriteLine($"{Brand} Bike is doing a wheelie! 🏍️");
         }
+
+        public override void Start()
+        {
+            Console.WriteLine($"{Brand} bike started at {Speed} km/h");
+        }
+
+        public override void Stop()
+        {
+            Console.WriteLine($"{Brand} bike stopped.");
+        }
     }
 }

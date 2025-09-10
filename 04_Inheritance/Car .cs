@@ -20,5 +20,15 @@ namespace _04_Inheritance
         {
             Console.WriteLine($"{Brand} Car trunk opened 🚗");
         }
+
+        public override void Start()
+        {
+            Console.WriteLine($"{Brand} car started at {Speed} km/h");
+        }
+
+        public override void Stop()
+        {
+            Console.WriteLine($"{Brand} car stopped.");
+        }
     }
 }

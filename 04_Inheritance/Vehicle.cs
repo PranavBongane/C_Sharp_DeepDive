@@ -18,12 +18,12 @@ namespace _04_Inheritance
             Speed = speed;
         }
 
-        public void Start()
+        public virtual void Start()
         {
             Console.WriteLine($"{Brand} started at {Speed} km/h");
         }
 
-        public void Stop()
+        public virtual void Stop()
         {
             Console.WriteLine($"{Brand} stopped.");
         }
